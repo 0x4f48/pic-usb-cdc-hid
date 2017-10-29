@@ -14,8 +14,9 @@ go back to the previous screen.
 
 * PIC16F1454 is used for my design.
 
-![Prototype Board](https://github.com/0x4f48/pic-usb-cdc-hid/misc/protoboard.png)
-![PCB & 3D printed case](https://github.com/0x4f48/pic-usb-cdc-hid/misc/usb-serial-kbd.png)
+![Prototype Board](https://github.com/0x4f48/pic-usb-cdc-hid/blob/master/misc/protoboard.png)
+
+![PCB & 3D printed case](https://github.com/0x4f48/pic-usb-cdc-hid/blob/master/misc/usb-serial-kbd.png)
 
 
  
